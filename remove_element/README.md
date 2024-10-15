@@ -9,18 +9,18 @@ Consider the number of elements in nums which are not equal to val be k, to get 
 ## example ?
 Example 1: 
 
-> Input: nums = [3,2,2,3], val = 3
-> Output: 2, nums = [2,2]
-> Explanation: Your function should return k = 2, with the first two elements of nums being 2.
-> It does not matter what you leave beyond the returned k (hence they are underscores).
+> Input: nums = [3,2,2,3], val = 3 <br>
+> Output: 2, nums = [2,2] <br>
+> Explanation: Your function should return k = 2, with the first two elements of nums being 2. <br>
+> It does not matter what you leave beyond the returned k (hence they are underscores). <br>
 
 Example 2:
 
-> Input: nums = [0,1,2,2,3,0,4], val = 2
-> Output: 5, nums = [0,1,4,0,3]
-> Explanation: Your function should return k = 5, with the first five elements of nums containing 0, 0, 1, 3, and 4.
-> Note that the five elements can be returned in any order.
-> It does not matter what you leave beyond the returned k (hence they are underscores).
+> Input: nums = [0,1,2,2,3,0,4], val = 2 <br>
+> Output: 5, nums = [0,1,4,0,3] <br>
+> Explanation: Your function should return k = 5, with the first five elements of nums containing 0, 0, 1, 3, and 4. <br>
+> Note that the five elements can be returned in any order. <br>
+> It does not matter what you leave beyond the returned k (hence they are underscores). <br>
 
 ## constrants ?
 
